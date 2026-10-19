@@ -1,0 +1,8 @@
+# Exact versions this project was developed and tested with
+# (Python 3.13, Windows 11, CPU only).
+# Newer versions will probably work but have not been tested.
+numpy==2.2.6
+torch==2.14.1
+matplotlib==3.10.7
+scikit-learn==1.7.0
+pytest==9.0.2
